@@ -96,15 +96,6 @@ ccm.printlast();
 ccm.printfeatures();
 ccm.printavgfeatures();
 ```
-Expected output:
-
-Blur with 2D Kernel in.... 2236.33ms
-
-Blur with 2 Vectors.... 215.8ms
-
-StDev of error between two approaches: 1.03603
-
-GLCM.... 1410.83ms
 
 ## License
 
